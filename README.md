@@ -9,7 +9,7 @@
 3. Install lean4. Follow the [instructions on this link][Lean install instructions]
 4. open a terminal
 5. `cd` to the folder inside which you want to maintain this repository.
-6. Clone this repository by using `git clone git@github.com:Shreyas4991/lean-rw-dist.git`
+6. Clone this repository by using `git clone https://github.com/Shreyas4991/lean-rw-dist.git`
 7. `cd lean-rw-dist`
 8. If you have installed lean correctly, then at this point, run `lake exe cache get`. This fetches pre-build Mathlib binaries.
 9. Open your project in vscode by using the command `code .`
