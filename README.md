@@ -12,7 +12,12 @@
 6. Clone this repository by using `git clone https://github.com/Shreyas4991/lean-rw-dist.git`
 7. `cd lean-rw-dist`
 8. If you have installed lean correctly, then at this point, run `lake exe cache get`. This fetches pre-build Mathlib binaries.
-9. Open your project in vscode by using the command `code .`
+
+9. Open your project in vscode by using the command `code .`. Vscode will ask you in a dialog box if you trust the authors of the files in this folder. Say "Yes".
+![alt text](image.png)
+
+I also recommend click on the checkbox about trusting the parent folder since the authors in question would be you.
+
 10. Open the file `LeanRwDist/Basic.lean`
 11. You should see something that looks like the below (ignoring the colours)
 ![New Math project](<Screenshot from 2026-02-22 15-21-20.png>)
