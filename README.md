@@ -19,10 +19,17 @@
 I also recommend click on the checkbox about trusting the parent folder since the authors in question would be you.
 
 10. Open the file `LeanRwDist/Basic.lean`
+
+
 11. You should see something that looks like the below (ignoring the colours)
 ![New Math project](<Screenshot from 2026-02-22 15-21-20.png>)
 
-12. If you place your cursor at the end of line 3, you get a message that looks like the below on the right hand side 
+12. If you don't see two side by side windows, click on the `∀` button on top of the editor, and click on `Toggle Infoview`. You can follow the two images below in sequence to achieve this.
+![forall_button.png](<forall_button.png>)
+
+![toggle_lean_infoview](<toggle_lean_infoview.png>)
+
+13. If you place your cursor at the end of line 3, you get a message that looks like the below on the right hand side 
 ![alt text](<Screenshot from 2026-02-22 15-23-16.png>)
 
 [Lean install instructions]: https://lean-lang.org/install/
